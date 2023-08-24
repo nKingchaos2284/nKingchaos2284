@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nKingchaos2284 you can call me "Joey"
 - 👀 I’m interested in Automation, machine learning, Ai, robotics....Previous background in PLC's and process engineering....But I like to play with anything.
 - 🌱 I graduated from UC Davis coding bootcamp. Fill Stack Developer
-- 💞️ I’m looking to collaborate on any beginer projects!
+- 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me....email @----> joey@jcabeli.com
 -  My Portfolio Page ----> https://jcabeli-portfolio1.netlify.app/
 
